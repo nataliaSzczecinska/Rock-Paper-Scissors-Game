@@ -13,16 +13,16 @@ In this version you could choose extended version called "Rock-Paper-Scissors-Li
  ## Screenshots
 
 The entry windows where you could choose options of game
-![Algorithm](src/main/resources/screenshots/1.png)
+![Algorithm](src/main/resources/1.png)
 
 The game window of basic version "Rock-Paper-Scissors"
-![Algorithm](src/main/resources/screenshots/2.png)
+![Algorithm](src/main/resources/2.png)
 
 The game window of extended version "Rock-Paper-Scissors-Lizard-Spock"
-![Algorithm](src/main/resources/screenshots/3.png)
+![Algorithm](src/main/resources/3.png)
 
 The ending window showing the result
-![Algorithm](src/main/resources/screenshots/4.png)
+![Algorithm](src/main/resources/4.png)
  
  ## Technologies
  JAVA version 11.0.9
